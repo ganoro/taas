@@ -1,0 +1,22 @@
+{
+  "name": "taas",
+  "version": "0.0.4",
+  "description": "Timer as a Service",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ganoro/taas/git"
+  },
+  "keywords": [
+    "timer queue service"
+  ],
+  "author": "Roy Ganor",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.53.0"
+  },
+  "devDependencies": {}
+}
