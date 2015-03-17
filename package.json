@@ -1,6 +1,6 @@
 {
   "name": "taas",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Timer as a Service",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ganoro/taas/git"
+    "url": "git@github.com:ganoro/taas.git"
   },
   "keywords": [
     "timer queue service"
